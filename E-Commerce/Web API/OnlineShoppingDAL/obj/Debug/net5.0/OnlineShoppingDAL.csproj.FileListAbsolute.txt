@@ -1,0 +1,15 @@
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\bin\Debug\net5.0\OnlineShoppingDAL.deps.json
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\bin\Debug\net5.0\OnlineShoppingDAL.runtimeconfig.json
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\bin\Debug\net5.0\OnlineShoppingDAL.runtimeconfig.dev.json
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\bin\Debug\net5.0\OnlineShoppingDAL.dll
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\bin\Debug\net5.0\ref\OnlineShoppingDAL.dll
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\bin\Debug\net5.0\OnlineShoppingDAL.pdb
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.csproj.AssemblyReference.cache
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.AssemblyInfoInputs.cache
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.AssemblyInfo.cs
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.csproj.CoreCompileInputs.cache
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.dll
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\ref\OnlineShoppingDAL.dll
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.pdb
+D:\Training\E-Commerce\Web API\OnlineShoppingDAL\obj\Debug\net5.0\OnlineShoppingDAL.genruntimeconfig.cache

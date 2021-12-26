@@ -1,0 +1,15 @@
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.csproj.AssemblyReference.cache
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.AssemblyInfoInputs.cache
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.AssemblyInfo.cs
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.csproj.CoreCompileInputs.cache
+D:\Training\E-Commerce\Web API\CustomIdentityProject\bin\Debug\net5.0\CustomIdentityProject.deps.json
+D:\Training\E-Commerce\Web API\CustomIdentityProject\bin\Debug\net5.0\CustomIdentityProject.dll
+D:\Training\E-Commerce\Web API\CustomIdentityProject\bin\Debug\net5.0\ref\CustomIdentityProject.dll
+D:\Training\E-Commerce\Web API\CustomIdentityProject\bin\Debug\net5.0\CustomIdentityProject.pdb
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.dll
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\ref\CustomIdentityProject.dll
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.pdb
+D:\Training\E-Commerce\Web API\CustomIdentityProject\bin\Debug\net5.0\CustomIdentityProject.runtimeconfig.json
+D:\Training\E-Commerce\Web API\CustomIdentityProject\bin\Debug\net5.0\CustomIdentityProject.runtimeconfig.dev.json
+D:\Training\E-Commerce\Web API\CustomIdentityProject\obj\Debug\net5.0\CustomIdentityProject.genruntimeconfig.cache
